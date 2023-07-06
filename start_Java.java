@@ -45,3 +45,24 @@ public class Main {
         System.out.println("12345 + 6789");
     }
 }
+
+/*演習課題「引き算しよう」*/
+public class Main {
+    public static void main(String[] args) {
+        System.out.println(12345 - 6789);
+    }
+}
+
+/*演習課題「掛け算しよう」*/
+public class Main {
+    public static void main(String[] args) {
+        System.out.println(12345 * 6789);
+    }
+}
+
+/*演習課題「割り算しよう」*/
+public class Main {
+    public static void main(String[] args) {
+        System.out.println(12345 / 5);
+    }
+}
