@@ -66,3 +66,20 @@ public class Main {
         System.out.println(12345 / 5);
     }
 }
+
+/*演習課題「変数でメッセージを表示しよう」*/
+public class Main {
+    public static void main(String[] args) {
+        String message = "Hello paiza";
+        System.out.println(message);
+    }
+}
+
+/*演習課題「変数で、複数のメッセージを表示しよう」*/
+public class Main {
+    public static void main(String[] args) {
+        String message = "Hello paiza";
+        System.out.println(message);
+        System.out.println(message);
+    }
+}
